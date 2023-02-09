@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# The Joy Of React
+
+The Joy of React
+Building stuff with React is a blast when we have the right mental models! We'll learn how React really works,
+and use it to build wonderful, robust, accessible user interfaces.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
