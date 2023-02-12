@@ -7,3 +7,9 @@ const Expression = () => (
 );
 
 export default Expression;
+
+// Lecture covered
+
+// Comments in JSX
+// Attribute expression slots
+// Type coercion
