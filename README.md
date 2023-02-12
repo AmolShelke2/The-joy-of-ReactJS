@@ -4,7 +4,7 @@ The Joy of React By Josh Comeau
 Building stuff with React is a blast when we have the right mental models! We'll learn how React really works,
 and use it to build wonderful, robust, accessible user interfaces.
 
-## What This Module Covers
+## Module Content
 
 - The magic of React
 - Hello React
